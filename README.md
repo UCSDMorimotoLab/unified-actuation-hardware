@@ -10,7 +10,7 @@
   &nbsp;·&nbsp;
   <a href="https://drive.google.com/file/d/1_eJ_vQgiMd1IlGs77tz4AiUZTHAcJVn4/view"><b>Full actuation assembly video</b></a>
   &nbsp;·&nbsp;
-  <b>Looking for software?</b> (repository coming soon)
+  <a href="https://github.com/UCSDMorimotoLab/unified-actuation-software"><b>Looking for software?</b></a>
 </p>
 
 ---
