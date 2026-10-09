@@ -40,3 +40,7 @@ The [full actuation assembly video](https://drive.google.com/file/d/1_eJ_vQgiMd1
 <p align="center">
   <em>An example actuation assembly for a TDCR. Modules can be reconfigured to match the robot's design and number of DOFs. A central working channel accommodates cameras, forceps, and other tools.</em>
 </p>
+
+## License
+
+The CAD files, print files, and documentation in this repository are released under the [MIT License](LICENSE).
